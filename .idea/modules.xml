@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InfiniteViewPager.iml" filepath="$PROJECT_DIR$/InfiniteViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+      <module fileurl="file://E:\_CODE\Android_AS\My\InfiniteViewPager\Sample\app.iml" filepath="E:\_CODE\Android_AS\My\InfiniteViewPager\Sample\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infiniteviewpager/infiniteviewpager.iml" filepath="$PROJECT_DIR$/infiniteviewpager/infiniteviewpager.iml" />
+    </modules>
+  </component>
+</project>

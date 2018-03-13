@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundDotIndicator">
+        <!-- The color when the round dot is selected -->
+        <attr name="selectedColor" format="color" />
+        <!-- The color when the round dot is not selected -->
+        <attr name="unselectedColor" format="color" />
+        <!-- round dot radius -->
+        <attr name="radius" format="dimension" />
+        <!-- Spacing between dots -->
+        <attr name="spacing" format="dimension" />
+    </declare-styleable>
+</resources>
